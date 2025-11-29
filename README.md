@@ -70,7 +70,7 @@ For each model, recorded:
 
 This allowed identifying a stable and meaningful eps region.
 
-**Final eps chosen: *eps = 2***
+**Final eps chosen:** `eps = 2`
 
 ## 4) Cluster Visualization
 Created cluster-colored scatterplots:
