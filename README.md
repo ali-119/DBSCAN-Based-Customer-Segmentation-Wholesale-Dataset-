@@ -113,11 +113,11 @@ This clearly reveals:
 # How to Run
 
 ## Clone the repository:
-[github](https://github.com/ali-119/DBSCAN-Based-Customer-Segmentation-Wholesale-Dataset-)
+[github](https://github.com/ali-119/DBSCAN-Based-Customer-Segmentation-Wholesale-Dataset)
 
 ## Install dependencies:
 <pre>pip install -r requirements.txt</pre>
-- requirements.txt → [file](https://github.com/ali-119/DBSCAN-Based-Customer-Segmentation-Wholesale-Dataset-/blob/main/requirements.txt)
+- requirements.txt → [file](https://github.com/ali-119/DBSCAN-Based-Customer-Segmentation-Wholesale-Dataset/blob/main/requirements.txt)
 
 or directly:
 <pre>pip install numpy pandas seaborn matplotlib scikit-learn</pre>
